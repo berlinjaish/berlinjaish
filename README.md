@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Berlin Jaish M
 
-<!--
-**berlinjaish/berlinjaish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 DevOps Engineer | Cloud & Automation Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about Cloud Computing, DevOps practices, Infrastructure Automation, and CI/CD pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☁️ Learning AWS Cloud Services
+- 🐧 Practicing Linux and Bash Scripting
+- 🐳 Exploring Docker and Containerization
+- 🔧 Learning Jenkins and CI/CD
+- 🌍 Exploring Terraform and Kubernetes
+- 🎯 Seeking entry-level DevOps Engineer opportunities
+
+### 🛠️ Technical Skills
+
+- **Cloud:** AWS
+- **Operating Systems:** Linux
+- **Version Control:** Git and GitHub
+- **Containers:** Docker
+- **CI/CD:** Jenkins
+- **Infrastructure as Code:** Terraform
+- **Orchestration:** Kubernetes
+- **Scripting:** Bash and Python
+
+### 🎓 Certification
+
+- Advanced Cyber Security and Ethical Hacking – GUVI
+
+### 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/berlinjaish)
+- [GitHub](https://github.com/berlinjaish)
+
+---
+⭐ Always learning, building, and improving!
